@@ -28,7 +28,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 #theme: architect
-remote_theme: cotes2020/jekyll-theme-chirpy@v7.0.1
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
