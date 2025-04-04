@@ -13,19 +13,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: christian@rinkenauer.cloud
+  phone: 
   timezone: Europe/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: austria, germany
+  citizenship: Austria, Germany
   website: # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  linkedin: christian-rinkenauer-2a4813b3
   xing: alandoe
   github: ChrisMac715
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,27 +37,20 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: German
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Skiing
       link:
 
 
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
+    - item: Home Automation | IoT
       link:
 
 
