@@ -80,8 +80,15 @@ education:
   - degree: Fachhochschulreife
     university: Johann-Jakob-Widmann-Schule, Heilbronn 
     time: 09/2003 - 07/2005
-    details: 
-    
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
 experiences:
   title: Experiences
   info:
