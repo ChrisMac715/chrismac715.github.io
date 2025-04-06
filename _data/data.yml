@@ -168,6 +168,24 @@ training:
     credentialname: Microsoft
     details: |
 
+  - name: Microsoft Certified - Azure Solutions Architect Expert
+    start: 2020
+    end: 
+    organization: TÜV Rheinland Akademie GmbH
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+
+  - name: Microsoft Certified - Azure Solutions Architect Expert
+    start: 2020
+    end: 
+    organization: TÜV Rheinland Akademie GmbH
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+
 certifications:
   title: Certifications
   intro: 
@@ -176,6 +194,7 @@ certifications:
     link: 
     tagline:
     details: |
+      - Microsoft Certified: Identity and Access Administrator Associate
       - IONOS Professional Cloud Architect Certificate
       - IONOS Technical Presales Certificate
 
