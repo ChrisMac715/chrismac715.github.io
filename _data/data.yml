@@ -256,23 +256,32 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Service Design Managed Service
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Product & Portfolio Management (Technology)
+    level: 90%
+  
+  - name: Microsot Azure
+    level: 98%
+
+  - name: StackIT
+    level: 98%
+
+  - name: Ionos
+    level: 98%
+
+  - name: Kubernets
+    level: 65%
+
+  - name: Automation (Low Code)
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Identity & Access Management
+    level: 90%
+
+  - name: Firewall & Security
+    level: 95%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
