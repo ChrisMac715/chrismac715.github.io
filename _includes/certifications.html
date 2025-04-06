@@ -1,6 +1,6 @@
 {% assign certifications = site.data.data.certifications %}
 {% if certifications %}
-<section class="section certifications-section">
+<section class="section projects-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -19,7 +19,7 @@
   {% for certifications in certifications.assignments %}
     <div class="item">
 
-      <span class="certifications-title">
+      <span class="project-title">
         {% if certifications.title %}
         {{ certifications.title }}
         {% endif %}
