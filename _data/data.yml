@@ -104,15 +104,6 @@ experiences:
     company: Konica Minolta IT Solutions GmbH, Stuttgart
     details: |
       Worked as a Funded Head for Konica Minolta Business Europe
-      - Technical project manager for projects in Europe 
-      - Technical project manager for European rollout projects
-      - Development and further development of managed services 
-      - Support in the development of a product and service portfolio within Europe 
-      - Development of service organizations within Europe 
-      - Coordination of outsourcing projects with service providers and partner
-      - Management of task force teams 
-      - Support with the implementation of infrastructure infrastructure projects 
-      - Internal consulting for cloud and data center project
 
   - role: Transition Consultant
     time: 2013 - 2014
@@ -132,43 +123,32 @@ experiences:
 training:
   title: Further education
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: Microsoft Certified: Cybersecurity Architect Expert
+    start: 2024
+    end: 
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+    credentialid: 2BE778-V5A935
+    credentialurl: https://learn.microsoft.com/api/credentials/share/de-de/crinkenauer/4B453B0E9006E59D?sharingId=E5E6E03692DE4B88
+    credentialname: Microsoft
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: 
+    start: 2022
+    end: 2025
+    organization: Microsoft
+    credentialid: X0D70D-4B6A69
+    credentialurl: https://learn.microsoft.com/api/credentials/share/de-de/crinkenauer/3F250454698AC73E?sharingId=E5E6E03692DE4B88
+    credentialname: Microsoft
+    details: |
+
+  - name: PRINCE2 Agile Practiticoner certificate in Agile Project Management
+    start: 2020
     end:
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    credentialid: GR649021586CR
+    credentialurl: 
+    credentialname: PeopleCert
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
 certifications:
   title: Certifications
