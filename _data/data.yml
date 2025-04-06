@@ -222,7 +222,56 @@ certifications:
       - Citrix Certified Professional - Virtualization (CCP - V) 
       - Citrix Certified Associate - Virtualization (CCA - V) 
       - Citrix DaaS on Citrix Cloud Certified (CC-DaaS-CC)
-      - Virtual Apps and Desktops Service Integration with Microsoft Azure Certified (CCV AD-MA) 
+      - Citrix DaaS Integration with Microsoft Azure Certified (CCV AD-MA)
+  
+  - title: 2020
+    link: 
+    tagline:
+    details: |
+      - Microsoft Certified: Azure Solutions Architect Expert 
+      - AZ-301 Microsoft Azure Architect Design 
+      - AZ-300 Microsoft Azure Architect Technologies 
+      - Microsoft Certified: Azure Administrator Associate 
+      - Microsoft Certified: Azure Fundamentals
+
+  - title: 2019
+    link: 
+    tagline:
+    details: |
+      - Hornetsecurity Certified Engineer
+
+  - title: 2017
+    link: 
+    tagline:
+    details: |
+      - Paessler Certified Monitoring Professional 2017 
+      - ITIL® Foundation Certificate in IT Service Management 
+      - ITIL® 2011 Foundation for IT Service Management
+
+  - title: 2016
+    link: 
+    tagline:
+    details: |
+      - VEEAM Technical Sales Professional (VMTSP), v9
+
+  - title: 2015
+    link: 
+    tagline:
+    details: |
+      - VMware Certified Professional 6 / Data Center Virtualization 
+      - Veeam Certified Engineer Course for Veeam Avaiability Suite 8 
+      - PRINCE2 Foundation certificate in Project Management 
+      - PRINCE2 Kompakt in practice (Foundation und Practitioner) 
+      - VMware Certified Advanced Professional 5 / Data Center Design 
+      - Nutanix Platform Professional on NOS 4 (NPP4) 
+      - Nutanix Platform Sales Engineer Certification 
+      - Nutanix Platform Sales Rep Certification 
+      - VMware vSphere: What´s new 6 
+      - VMware vSphere: Design Workshop V5.5 
+      - KEMP Technologies Certified Consultant 
+      - Paessler Certified Monitoring Professional 2015 
+      - Citrix Certified Associate Virtualization 1Y0-200 
+      - VEEAM Technical Sales Professional (VMTSP), v8 
 
   - title: Atom
     link: "#"
