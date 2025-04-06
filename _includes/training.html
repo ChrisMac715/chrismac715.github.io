@@ -1,0 +1,48 @@
+{% assign training = site.data.data.training %} {% if training %}
+<section class="section training-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ training.title }}
+  </h2>
+
+  {% for training in training.list %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="cert-title">{{ training.name }}</h3>
+        <div class="time">
+          {{ training.start }} {% if training.end %} - {{
+          training.end }} {% endif %}
+        </div>
+      </div>
+      <!--//upper-row-->
+
+      <div class="second-upper-row">
+        <div class="cert-org">
+          {{ training.organization }} {% if training.credentialid %}
+          ({{ training.credentialid }}) {% endif %}
+        </div>
+        {% if training.credentialurl %}
+        <div class="cert-url">
+          <a
+            href="//{{ training.credentialurl }}"
+            target="_blank"
+            rel="noreferrer nofollow noopener"
+            >{{ training.credentialname }}</a
+          >
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    <!--//meta-->
+
+    <div class="details">{{ training.details | markdownify }}</div>
+  </div>
+  <!--//item-->
+  {% endfor %}
+</section>
+<!--//section-->
+{% endif %}
