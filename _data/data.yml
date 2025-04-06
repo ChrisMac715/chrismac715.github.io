@@ -179,40 +179,24 @@ certifications:
     link: 
     tagline:
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      - IONOS Professional Cloud Architect Certificate
+      - IONOS Technical Presales Certificate
 
   - title: 2023
     link: 
     tagline:
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      - Sophos Firewall Certified Architect v19.5 (AT80)
+      - Sophos Central Endpoint and Server Protection Certified Architect v4.0 (AT15)
+      - ET15 - Sophos Central Endpoint and Server Protection v4.0 - Engineer
+      - ET80 - Sophos Firewall v19.5 - Engineer
 
   - title: 2022
     link: 
     tagline:
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      - Professional SCRUM Master I
+      - PRINCE2 Agile Practiticoner certificate in Agile Project Management
 
   - title: 2021
     link: 
@@ -222,7 +206,7 @@ certifications:
       - Citrix Certified Professional - Virtualization (CCP - V) 
       - Citrix Certified Associate - Virtualization (CCA - V) 
       - Citrix DaaS on Citrix Cloud Certified (CC-DaaS-CC)
-      - Citrix DaaS Integration with Microsoft Azure Certified (CCV AD-MA)
+      - Citrix DaaS Integration with Microsoft Azure Certified (CC-DaaS-MA)
   
   - title: 2020
     link: 
@@ -247,6 +231,7 @@ certifications:
       - Paessler Certified Monitoring Professional 2017 
       - ITIL® Foundation Certificate in IT Service Management 
       - ITIL® 2011 Foundation for IT Service Management
+      - PRINCE2 Practiticoner certificate in Project Management
 
   - title: 2016
     link: 
