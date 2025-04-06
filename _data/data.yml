@@ -129,7 +129,7 @@ training:
     organization: Microsoft
     credentialid: 2BE778-V5A935
     credentialurl: learn.microsoft.com/api/credentials/share/de-de/crinkenauer/4B453B0E9006E59D?sharingId=E5E6E03692DE4B88
-    credentialname: Pearson
+    credentialname: Microsoft
     details: |
 
   - name: PRINCE2 Agile Practiticoner certificate in Agile Project Management
@@ -141,13 +141,31 @@ training:
     credentialname: PeopleCert
     details: |
 
+  - name: Citrix Certified Expert - Virtualization (CCE - V)
+    start: 2021
+    end: 
+    organization: Citrix
+    credentialid: 
+    credentialurl: 
+    credentialname: Citrix
+    details: |
+      The Citrix Certified Expert - Virtualization (CCE-V) validates the skills experienced IT solution designers, such as architects, engineers and consultants need to assess and design practical Citrix Virtual Apps and Desktops solutions.
+
+      Earned Citrix Full House Certification (Architect) in 2021:
+      - Citrix Certified Expert - Virtualization (CCE - V) 
+      - Citrix Certified Professional - Virtualization (CCP - V) 
+      - Citrix Certified Associate - Virtualization (CCA - V) 
+      - Citrix DaaS on Citrix Cloud Certified (CC-DaaS-CC)
+      - Citrix DaaS Integration with Microsoft Azure Certified (CC-DaaS-MA)
+      
+
   - name: Microsoft Certified - Azure Solutions Architect Expert
     start: 2020
     end: 
     organization: Microsoft
     credentialid: X0D70D-4B6A69
     credentialurl: learn.microsoft.com/api/credentials/share/de-de/crinkenauer/3F250454698AC73E?sharingId=E5E6E03692DE4B88
-    credentialname: Pearson
+    credentialname: Microsoft
     details: |
 
 certifications:
