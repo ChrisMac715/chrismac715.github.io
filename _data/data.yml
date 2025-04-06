@@ -214,6 +214,16 @@ certifications:
       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
       Praesent venenatis erat non augue suscipit consectetur.
 
+  - title: 2021
+    link: 
+    tagline:
+    details: |
+      - Citrix Certified Expert - Virtualization (CCE - V) 
+      - Citrix Certified Professional - Virtualization (CCP - V) 
+      - Citrix Certified Associate - Virtualization (CCA - V) 
+      - Citrix DaaS on Citrix Cloud Certified (CC-DaaS-CC)
+      - Virtual Apps and Desktops Service Integration with Microsoft Azure Certified (CCV AD-MA) 
+
   - title: Atom
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
