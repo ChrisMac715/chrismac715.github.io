@@ -49,7 +49,7 @@ sidebar:
     - item: Skiing
       link:
 
-    - item: Home Automation | IoT
+    - item: Home Automation
       link:
     
     - item: Gaming
@@ -273,13 +273,52 @@ certifications:
       - Citrix Certified Associate Virtualization 1Y0-200 
       - VEEAM Technical Sales Professional (VMTSP), v8 
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: 2014
+    link: 
+    tagline:
+    details: |
+      - Business English Basics included – A2, IHK Heilbronn 
+      - Paessler Certified Monitoring Professional 2014 
+  
+  - title: 2013
+    link: 
+    tagline:
+    details: | 
+      - Datenschutzbeauftragter, IHK Heilbronn 
+      - VMware vCenter Operations Manager: Advanced Usage and Dashboard Design V5.x 
+      - VMware vCenter Operations Manager: Analyse and Predict V5.x 
+      - ADN Citrix Training „Einstieg Provisioning Server Administraton“ 
+      - CXD-203-1L Managing Citrix XenDesktop 7 Solutions 
+      - Watchguard Certification Exam - Fireware XTM v11.8 Basics  
+      - Watchguard Certification Exam - Fireware XTM v11.7 Basics  
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: 2012
+    link: 
+    tagline:
+    details: |
+      - AEVO (Ausbildereignungsprüfung), IHK Heilbronn 
+      - Geprüfter IT-Projektleiter / Certified IT Business Manager, IHK Heilbronn 
+      - VMware Certified Professional 5 / Data Center Virtualization 
+      - VMware vSphere 5: What´s new 
+      - Watchguard Certification Exam - Fireware XTM v11.6 Basics  
+      - Watchguard Academy 2012 
+  
+  - title: 2011
+    link: 
+    tagline:
+    details: | 
+      - VMware Certified Professional 4 
+      - VMware vSphere 5: What´s new 
+      - Watchguard Certification Exam - Fireware XTM v11.4 Basics  
+  
+  - title: 2009
+    link: 
+    tagline:
+    details: |
+      - Citrix CXA-203-1I Citrix XenApp 6 Partner Workshop 
+      - Citrix Certified Administrator for Citrix XenApp 5 for Windows Server 2008 
+      - Citrix CXA-201I Implementing Citrix XenApp 5.0 for Windows Server 2008 
+      - Netzwerk Administrator (IHK) 
 
 oss:
   title: OSS Contributions
