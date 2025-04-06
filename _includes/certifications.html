@@ -18,11 +18,12 @@
 
   {% for certifications in certifications.assignments %}
     <div class="item">
-      
-      {% if certifications.title %}
-      <div class="time">{{ certifications.title }}  
-      </div>
-      {% endif %}
+
+      <h4 span class="certifications-title">
+        {% if certifications.title %}
+        {{ certifications.title }}
+        {% endif %}
+      </span>
 
       {% if certifications.details %}
       <div class="details">
