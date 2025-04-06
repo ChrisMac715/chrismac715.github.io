@@ -172,8 +172,7 @@ training:
 
 certifications:
   title: Certifications
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  intro: 
   assignments:
   - title: 2024
     link: 
