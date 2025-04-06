@@ -16,19 +16,25 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in certifications.assignments %}
+  {% for certifications in certifications.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+      <span class="certifications-title">
+        {% if certifications.link %}
+        <a href="{{ certifications.link }}" target="_blank">{{ certifications.title }}</a>
         {% else %}
-        {{ project.title }}
+        {{ certifications.title }}
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if certifications.tagline %}
+      - <span class="certifications-tagline">{{ certifications.tagline }}</span>
+      {% endif %}
+
+      {% if certifications.details %}
+      <div class="details">
+        {{ certifications.details | markdownify }}
+      </div><!--//details-->
       {% endif %}
 
     </div><!--//item-->
