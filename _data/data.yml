@@ -71,7 +71,7 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: IT Business Manager (IHK)
+  - degree: Certified IT Business Manager (IHK)
     university: IHK, Heilbronn Franken
     time: 2009 - 2012
     details: |
@@ -104,6 +104,15 @@ experiences:
     company: Konica Minolta IT Solutions GmbH, Stuttgart
     details: |
       Worked as a Funded Head for Konica Minolta Business Europe
+      - Technical project manager for projects in Europe 
+      - Technical project manager for European rollout projects
+      - Development and further development of managed services 
+      - Support in the development of a product and service portfolio within Europe 
+      - Development of service organizations within Europe 
+      - Coordination of outsourcing projects with service providers and partner
+      - Management of task force teams 
+      - Support with the implementation of infrastructure infrastructure projects 
+      - Internal consulting for cloud and data center project
 
   - role: Transition Consultant
     time: 2013 - 2014
