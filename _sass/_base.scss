@@ -297,9 +297,10 @@ p {
   }
   
 .badges img {
-  object-fit: contain;
-/* or
-  object-fit: cover; */
+  height: 20%;
+  width: 20%;
+}
+
 } 
 
 }
