@@ -65,7 +65,7 @@ career-profile:
     Started in IT 1997, 20 years of managed service, data center and operational experience. As a generalist I did everything from setting up a domain controller, architecture of virtualization environments and Citrix farms, but also firewall configurations.<br><br>
     After excursions into business development and product management, I returned to a pure technology role in the cloud area. Why cloud only? At some point I got tired of discussing iOPS and why the performance of a virtualization environment doesn't fit. With cloud, the focus is on consuming the service.<br><br>
     Focus on Microsoft Azure, security and power platform. Low code automation has become my passion. But also many cloud native topics and for example service design & development of a one click Kubernet or Nextcloud deployments as a service. Supporting operational teams in the adoption of new services or tools and their automation.<br><br>
-   <img src="https://github.com/ChrisMac715/chrismac715.github.io/blob/main/assets/images/certification.png" alt="Badges" /><br><br>
+   {% include image.html file="certification.png" url="https://github.com/ChrisMac715/chrismac715.github.io/blob/main/assets/images/certification.png" alt="Badges" %}<br><br>
 education:
   title: Education
   info:
