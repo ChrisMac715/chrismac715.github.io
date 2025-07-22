@@ -174,7 +174,7 @@ training:
     credentialname: Microsoft
     details: |
 
-  - name: Cloud Technology Academy TÜV: Microsoft Azure Architect
+  - name: Cloud Technology Academy TÜV - Microsoft Azure Architect
     start: 2020
     end: 
     organization: TÜV Rheinland Akademie GmbH
@@ -183,7 +183,7 @@ training:
     credentialname: TÜV Rheinland Akademie GmbH
     details: |
 
-  - name: Cloud Technology Academy TÜV: Microsoft Azure Consultant
+  - name: Cloud Technology Academy TÜV - Microsoft Azure Consultant
     start: 2020
     end: 
     organization: TÜV Rheinland Akademie GmbH
