@@ -120,6 +120,15 @@ experiences:
 training:
   title: Further education
   list:
+  - name: Microsoft Certified Trainer
+    start: 2025
+    end:
+    organization: Microsoft
+    credentialid: 
+    credentialurl: 
+    credentialname: Microsoft
+    details: |
+    
   - name: Microsoft Certified - Cybersecurity Architect Expert
     start: 2024
     end: 
@@ -178,6 +187,14 @@ certifications:
   title: Certifications
   intro: 
   assignments:
+  - title: 2025
+    link: 
+    tagline:
+    details: |
+      - Microsoft Certified Trainer
+      - Kaseya Certified Expert In Datto RMM
+      - Kaseya Certified Administrator in Datto RMM
+      
   - title: 2024
     link: 
     tagline:
@@ -322,6 +339,9 @@ skills:
   
   - name: Microsoft Azure
     level: 98%
+
+  - name: Cloud native
+    level: 75%
 
   - name: StackIT
     level: 98%
