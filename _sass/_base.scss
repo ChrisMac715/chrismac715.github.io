@@ -295,4 +295,11 @@ p {
   .fa-heart {
     color: $heart;
   }
+  
+.badges img {
+  object-fit: contain;
+/* or
+  object-fit: cover; */
+} 
+
 }
