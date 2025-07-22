@@ -174,13 +174,22 @@ training:
     credentialname: Microsoft
     details: |
 
-  - name: Microsoft Certified - Azure Solutions Architect Expert
+  - name: Cloud Technology Academy TÜV: Microsoft Azure Architect
     start: 2020
     end: 
     organization: TÜV Rheinland Akademie GmbH
     credentialid: 
-    credentialurl: 
-    credentialname: 
+    credentialurl: https://akademie.tuv.com/weiterbildungen/cloud-technology-academy-tuev-microsoft-azure-architect-3156002
+    credentialname: TÜV Rheinland Akademie GmbH
+    details: |
+
+  - name: Cloud Technology Academy TÜV: Microsoft Azure Consultant
+    start: 2020
+    end: 
+    organization: TÜV Rheinland Akademie GmbH
+    credentialid: 
+    credentialurl: https://akademie.tuv.com/weiterbildungen/cloud-technology-academy-tuev-microsoft-azure-consultant-11072689
+    credentialname: TÜV Rheinland Akademie GmbH
     details: |
 
 certifications:
